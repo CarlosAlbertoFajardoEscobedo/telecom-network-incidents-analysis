@@ -1,0 +1,6 @@
+IdTicket,Fecha,Cliente,Zona,TipoFalla,TiempoResolucionHoras,IdTecnico
+1,2026-01-01,"Juan Perez","Lima Norte","Sin Internet",4,1
+2,2026-01-02,"Maria Flores",Callao,"Fibra Cortada",8,2
+3,2026-01-03,"Pedro Ruiz","Lima Centro","Baja Velocidad",2,3
+4,2026-01-04,"Ana Torres","Lima Norte","Sin Internet",3,4
+5,2026-01-05,"Luis Diaz",Callao,"Router Dañado",6,1
